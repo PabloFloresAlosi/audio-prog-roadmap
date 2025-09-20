@@ -1,0 +1,11 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+build/
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+**/GeneratedSoundBanks/
+**/Cache/
