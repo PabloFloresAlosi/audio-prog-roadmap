@@ -1,0 +1,1 @@
+// General goal: move from C++ fundamentals → audio mini-projects (CLI) → Unreal (Blueprints + C++) → a first touch of Wwise. //
