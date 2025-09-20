@@ -1,0 +1,14 @@
+build/
+cmake-build*/
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+**/GeneratedSoundBanks/
+**/Cache/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22)
+project(wav_inspector LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+add_executable(wav_inspector src/wav_inspector.cpp)
+target_compile_options(wav_inspector PRIVATE -Wall -Wextra -Wpedantic)
