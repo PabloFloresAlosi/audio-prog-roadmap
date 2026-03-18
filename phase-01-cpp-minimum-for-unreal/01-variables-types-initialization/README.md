@@ -19,6 +19,9 @@ Understand how to declare, initialize, and use basic C++ data types, and how the
 
 * https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/
 * https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization/
+* https://www.learncpp.com/cpp-tutorial/introduction-to-iostream-cout-cin-and-endl/
+* https://www.learncpp.com/cpp-tutorial/introduction-to-literals-and-operators/
+* https://www.learncpp.com/cpp-tutorial/introduction-to-expressions/
 * https://www.learncpp.com/cpp-tutorial/introduction-to-fundamental-data-types/
 * https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring/
 
