@@ -1,11 +1,20 @@
+# Unreal Engine
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
-build/
+Build/
+
+# IDE
 .vscode/
 .vs/
+
+# Visual Studio
 *.sln
 *.vcxproj*
+*.VC.db
+*.opendb
+
+# Wwise / cache
 **/GeneratedSoundBanks/
 **/Cache/
