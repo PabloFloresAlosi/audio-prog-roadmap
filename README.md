@@ -12,6 +12,7 @@ Technical Sound Designer with a background in **game audio and sound design**, c
 # 🎮 Technical Sound Design Roadmap
 
 Work-in-progress portfolio focused on becoming a **Technical Sound Designer** specialized in **Unreal Engine, Wwise, and C++ for gameplay audio systems**.
+Bridging the gap between **Sound Design and Gameplay Programming** through C++, Unreal Engine, and interactive audio systems.
 
 ---
 
@@ -113,8 +114,19 @@ Each topic includes:
 * Audio system in Unity
 * Cross-engine understanding
 
-📁 Located in:
-`unity-csharp-secondary-track/`
+---
+
+## 💡 Why this repository
+
+This repository documents my transition from **Sound Designer to Technical Sound Designer**.
+
+Instead of isolated learning, this roadmap is structured to:
+- Connect programming concepts directly to game audio systems
+- Build real implementation skills, not just theoretical knowledge
+- Prepare for working inside real game engines (Unreal + Wwise)
+
+Every phase is designed with a clear goal:  
+👉 apply programming to interactive audio.
 
 ---
 
@@ -144,6 +156,8 @@ This repository evolves weekly as I document:
 
 ## ⚡ Final Note
 
-This is a long-term, structured journey to bridge the gap between **sound design and gameplay programming**.
+This is not just about learning C++.
 
-The goal is not just to write code — but to build **audio systems that enhance player experience**.
+It’s about building the technical foundation to create **interactive audio systems that respond to gameplay, player behavior, and game states**.
+
+The goal is simple: 👉 turn sound into a system, not just an asset.
