@@ -3,6 +3,7 @@
 Work-in-progress portfolio focused on becoming a **Technical Sound Designer** specialized in **Unreal Engine, Wwise, and C++ for gameplay audio systems**.
 Bridging the gap between **Sound Design and Gameplay Programming** through C++, Unreal Engine, and interactive audio systems.
 
+
 ## 👤 About Me
 
 Technical Sound Designer with a background in **game audio and sound design**, currently focused on expanding into **gameplay systems, C++, and engine-level implementation**.
@@ -11,6 +12,7 @@ Technical Sound Designer with a background in **game audio and sound design**, c
 * 🧠 Growing expertise in technical audio systems
 * ⚙️ Learning C++ with direct application to Unreal Engine
 * 🎮 Passionate about interactive audio and game development
+
 
 ## 🧠 Goal
 
@@ -21,6 +23,7 @@ Build the technical foundation required to design, implement, and control **inte
 * 🎮 Unreal Engine
 * 🔊 Wwise Integration
 * 🧠 Systems Thinking
+
 
 ## 🗺️ Roadmap Overview
 
@@ -71,7 +74,6 @@ Develop technical tools for audio workflows:
 * Logging systems
 * Editor tools
 
----
 
 ## 🎯 Expected Outcome
 
@@ -84,7 +86,6 @@ By the end of this roadmap:
 * Design scalable and reactive audio systems
 * Create debugging tools for audio behavior
 
----
 
 ## 🧪 Approach
 
@@ -97,7 +98,6 @@ Each topic includes:
 * 📝 Notes and key takeaways
 * 🎯 Focus on real-world application (game audio)
 
----
 
 ## 🧩 Secondary Track (Parallel Learning)
 
@@ -108,7 +108,6 @@ Each topic includes:
 * Audio system in Unity
 * Cross-engine understanding
 
----
 
 ## 💡 Why this repository
 
@@ -122,7 +121,6 @@ Instead of isolated learning, this roadmap is structured to:
 Every phase is designed with a clear goal:  
 👉 apply programming to interactive audio.
 
----
 
 ## 📊 Progress Tracking
 
@@ -133,20 +131,17 @@ This repository evolves weekly as I document:
 * System understanding
 * Technical growth
 
----
 
 ## 📌 Status
 
 🚧 Active development — continuously updated
 
----
 
 ## 🔗 Portfolio & Contact
 
 * Portfolio: https://pablofalosi.wixsite.com/home
 * LinkedIn: https://www.linkedin.com/in/pablofloresalosi/
 
----
 
 ## ⚡ Final Note
 
