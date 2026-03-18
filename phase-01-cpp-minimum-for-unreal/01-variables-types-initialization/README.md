@@ -7,7 +7,6 @@ Build a solid foundation in C++ focused on understanding and writing gameplay co
 This phase is not about mastering C++ in isolation —
 it is about learning **just enough to work effectively with game systems and audio implementation**.
 
----
 
 ## 📚 Topics Covered
 
@@ -21,7 +20,6 @@ it is about learning **just enough to work effectively with game systems and aud
 * Basic memory concepts (stack vs heap)
 * Arrays and collections (`std::vector`)
 
----
 
 ## 🧪 Approach
 
@@ -32,7 +30,6 @@ Each topic is structured as a small module including:
 * 📝 Notes and explanations
 * 🎯 Focus on real-world use cases (gameplay + audio)
 
----
 
 ## 🎮 Why This Matters for Audio
 
@@ -45,7 +42,6 @@ Understanding C++ allows you to:
 * Build parameter-driven audio behavior
 * Communicate between gameplay logic and sound systems
 
----
 
 ## ⚙️ Expected Outcome
 
@@ -57,17 +53,14 @@ By completing this phase, I aim to:
 * Prepare for working with Actors, Components, and audio systems
 
 
----
-
 ## 🔗 Resources
 
 All learning materials are based on:
 
 * https://www.learncpp.com/
 
-Each module includes direct links to the relevant lessons.
 
----
+Each module includes direct links to the relevant lessons.
 
 ## ⚡ Notes
 
