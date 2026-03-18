@@ -1,3 +1,10 @@
+# 🎮 Technical Sound Design Roadmap
+
+Work-in-progress portfolio focused on becoming a **Technical Sound Designer** specialized in **Unreal Engine, Wwise, and C++ for gameplay audio systems**.
+Bridging the gap between **Sound Design and Gameplay Programming** through C++, Unreal Engine, and interactive audio systems.
+
+---
+
 ## 👤 About Me
 
 Technical Sound Designer with a background in **game audio and sound design**, currently focused on expanding into **gameplay systems, C++, and engine-level implementation**.
@@ -6,13 +13,6 @@ Technical Sound Designer with a background in **game audio and sound design**, c
 * 🧠 Growing expertise in technical audio systems
 * ⚙️ Learning C++ with direct application to Unreal Engine
 * 🎮 Passionate about interactive audio and game development
-
----
-
-# 🎮 Technical Sound Design Roadmap
-
-Work-in-progress portfolio focused on becoming a **Technical Sound Designer** specialized in **Unreal Engine, Wwise, and C++ for gameplay audio systems**.
-Bridging the gap between **Sound Design and Gameplay Programming** through C++, Unreal Engine, and interactive audio systems.
 
 ---
 
