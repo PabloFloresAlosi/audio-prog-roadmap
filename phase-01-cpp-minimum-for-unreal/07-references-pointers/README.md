@@ -1,44 +1,36 @@
-07-classes-objects/
+07 — References & Pointers
+07 — References & Pointers
 
-├── README.md
+🎯 Goal
+Understand how memory can be accessed and modified indirectly.
 
-├── include/
+📚 Topics Covered
+References
+Pointers
+Address-of operator
+Dereferencing
 
-│   └── AudioEmitter.h
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/introduction-to-references/
 
-├── src/
+https://www.learncpp.com/cpp-tutorial/introduction-to-pointers/
 
-│   ├── AudioEmitter.cpp
+💻 Practice
 
-│   └── main.cpp
+Modify values through references
 
-└── notes.md
+Use pointers to access data
 
+🧠 Key Takeaways
+References simplify access
+Pointers provide low-level control
+Memory access is fundamental in C++
 
+🎮 Relevance to Unreal Engine
+Core for:
 
-Qué debería contener:
+Performance
 
+Memory handling
 
-
-clase básica
-
-
-
-constructor
-
-
-
-public / private
-
-
-
-encapsulación
-
-
-
-destructor solo a nivel conceptual
-
-
-
-Esto ya empieza a oler a Unreal.
-
+Engine-level systems
