@@ -1,46 +1,52 @@
-04-control-flow/
+04 — Code Organization
+04 — Code Organization
 
-├── README.md
+🎯 Goal
+Understand how to organize code across multiple files and avoid structural issues in larger projects.
 
-├── src/
+📚 Topics Covered
+Forward declarations
+Multiple files (.h / .cpp)
+Naming collisions
+Namespaces
+Preprocessor basics
+Header files
+Header guards
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/forward-declarations/
 
-└── notes.md
+https://www.learncpp.com/cpp-tutorial/programs-with-multiple-code-files/
 
+https://www.learncpp.com/cpp-tutorial/naming-collisions-and-an-introduction-to-namespaces/
 
+https://www.learncpp.com/cpp-tutorial/introduction-to-the-preprocessor/
 
-Qué debería contener:
+https://www.learncpp.com/cpp-tutorial/header-files/
 
+https://www.learncpp.com/cpp-tutorial/header-guards/
 
+💻 Practice
 
-if
+Create simple .h and .cpp separation
 
+Define and use functions across files
 
+Avoid naming conflicts
 
-else
+🧠 Key Takeaways
+Organization becomes critical as projects grow
+Header files define structure, .cpp files implement logic
+Namespaces prevent collisions
+Clean structure improves scalability
 
+🎮 Relevance to Unreal Engine
+Unreal heavily relies on:
 
+Header files (.h)
 
-while
+Source files (.cpp)
 
+Macros (UCLASS, UPROPERTY, etc.)
 
-
-for
-
-
-
-Ejemplos:
-
-
-
-si el jugador entra en zona → reproducir sonido
-
-
-
-recorrer una lista de eventos
-
-
-
-lógica simple de estados
-
+Understanding this is mandatory for Unreal C++
