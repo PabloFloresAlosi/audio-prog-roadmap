@@ -1,42 +1,64 @@
-02-functions/
+02 — Functions
+02 — Functions
 
-├── README.md
+🎯 Goal
+Understand how to structure code using functions to create reusable, modular, and readable logic.
 
-├── src/
+📚 Topics Covered
+Function declaration and definition
+Return values
+Void functions
+Parameters and arguments
+Local variables and scope (inside functions)
+Why functions are essential
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/introduction-to-functions/
 
-└── notes.md
+https://www.learncpp.com/cpp-tutorial/function-return-values-value-returning-functions/
 
+https://www.learncpp.com/cpp-tutorial/void-functions-non-value-returning-functions/
 
+https://www.learncpp.com/cpp-tutorial/introduction-to-function-parameters-and-arguments/
 
-Qué debería contener:
+https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/
 
+https://www.learncpp.com/cpp-tutorial/why-functions-are-useful-and-how-to-use-them-effectively/
 
+💻 Practice
+Functions are used to simulate gameplay and audio logic:
 
-funciones simples
+Calculate final volume
 
+Trigger audio events
 
+Process input values
 
-parámetros
+Example concepts explored:
 
+Passing values into functions
 
+Returning processed results
 
-return values
+Separating logic into reusable blocks
 
+🧠 Key Takeaways
+Functions allow modular and scalable code
+Input → Process → Output is the core programming model
+Readable code is as important as working code
+Breaking problems into functions is essential for real systems
 
+🎮 Relevance to Unreal Engine
+Functions directly map to:
 
-Ejemplos:
+Gameplay logic functions
 
+Audio triggers
 
+Blueprint callable functions
 
-calcular volumen final
+Everything in Unreal is function-driven:
 
-
-
-comprobar si un sonido debe reproducirse
-
-
-
-convertir distancia en valor útil
-
+PlaySound()
+SetVolume()
+TriggerEvent()
