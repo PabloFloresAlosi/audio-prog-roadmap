@@ -1,30 +1,46 @@
-05-scope/
+05 — Control Flow
+05 — Control Flow
 
-├── README.md
+🎯 Goal
+Learn how to control program execution using conditions and loops.
 
-├── src/
+📚 Topics Covered
+if / else
+switch
+while loops
+for loops
+Logical operators
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements/
 
-└── notes.md
+https://www.learncpp.com/cpp-tutorial/if-statements-and-blocks/
 
+https://www.learncpp.com/cpp-tutorial/switch-statement/
 
+https://www.learncpp.com/cpp-tutorial/introduction-to-loops-and-while-statements/
 
-Qué debería contener:
+https://www.learncpp.com/cpp-tutorial/for-statements/
 
+💻 Practice
 
+Conditional audio triggers
 
-variables locales
+Looping through simulated updates
 
+State-based logic
 
+🧠 Key Takeaways
+Control flow defines behavior
+Conditions drive decisions
+Loops enable repeated logic
+Everything interactive relies on control flow
 
-alcance
+🎮 Relevance to Unreal Engine
+Used constantly in:
 
+Gameplay logic
 
+Audio systems
 
-lifetime básico
-
-
-
-Esto es más pequeño, pero igual conviene tener carpeta propia porque forma parte del roadmap y muestra disciplina.
-
+State machines
