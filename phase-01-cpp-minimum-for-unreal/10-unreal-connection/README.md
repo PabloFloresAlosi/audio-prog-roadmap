@@ -1,60 +1,33 @@
-10-unreal-connection/
+10 — Unreal Connection
+10 — Unreal Connection
 
-├── README.md
+🎯 Goal
+Bridge C++ fundamentals with Unreal Engine concepts.
 
-├── unreal-notes.md
+📚 Topics Covered
+Basic Unreal C++ structure
+Classes and engine interaction
+Blueprint integration concepts
 
-└── snippets/
+🔗 Resources
+(Unreal documentation + future references)
 
-&#x20;   └── unreal\_examples.md
+💻 Practice
 
+Map C++ concepts to Unreal equivalents
 
+Identify how variables and functions translate
 
-Aquí todavía no hace falta meter un proyecto Unreal completo si no quieres ensuciar el repo.
+🧠 Key Takeaways
+C++ is the backbone of Unreal
+Understanding fundamentals simplifies engine learning
+Concept mapping is key
 
-Esta carpeta puede servir para hacer la transición entre C++ puro y Unreal C++.
+🎮 Relevance to Unreal Engine
+This is where everything connects:
 
+Variables → UPROPERTY
 
+Functions → UFUNCTION
 
-Qué debería contener:
-
-
-
-cómo se conecta lo aprendido con Unreal
-
-
-
-equivalencias:
-
-
-
-clases → UCLASS
-
-
-
-objetos → UObject, AActor
-
-
-
-arrays → TArray
-
-
-
-strings → FString
-
-
-
-logs → UE\_LOG
-
-
-
-snippets pequeños
-
-
-
-notas de “esto en C++ normal / esto en Unreal”
-
-
-
-Esto queda muy bien para recruiters porque les deja clarísimo que no estás aprendiendo C++ aislado, sino con objetivo de motor.
-
+Logic → Gameplay systems
