@@ -1,46 +1,33 @@
-09-arrays-collections/
+09 — Arrays & Collections
+09 — Arrays & Collections
 
-├── README.md
+🎯 Goal
+Learn how to store and manage multiple values.
 
-├── src/
+📚 Topics Covered
+Arrays
+Basic iteration
+Indexing
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/introduction-to-arrays/
 
-└── notes.md
+💻 Practice
 
+Store multiple audio values
 
+Loop through collections
 
-Qué debería contener:
+🧠 Key Takeaways
+Collections manage grouped data
+Indexing allows access
+Loops + arrays = powerful systems
 
+🎮 Relevance to Unreal Engine
+Used for:
 
+Managing actors
 
-arrays básicos
+Audio sources
 
-
-
-std::vector
-
-
-
-recorrer colecciones
-
-
-
-añadir/quitar elementos
-
-
-
-Ejemplos ideales:
-
-
-
-lista de sonidos
-
-
-
-lista de nombres de eventos
-
-
-
-lista de volúmenes
-
+Data sets
