@@ -1,36 +1,33 @@
-06-references-pointers/
+06 — Scope
+06 — Scope
 
-├── README.md
+🎯 Goal
+Understand variable lifetime and visibility.
 
-├── src/
+📚 Topics Covered
+Local scope
+Global scope
+Block scope
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/
 
-└── notes.md
+💻 Practice
 
+Create variables inside and outside functions
 
+Observe accessibility
 
-Qué debería contener:
+🧠 Key Takeaways
+Scope controls where variables exist
+Incorrect scope leads to bugs
+Smaller scope = safer code
 
+🎮 Relevance to Unreal Engine
+Critical for:
 
+Managing gameplay state
 
-\&
+Avoiding unintended variable access
 
-
-
-\*
-
-
-
-pass by reference
-
-
-
-punteros básicos
-
-
-
-Sin meterte todavía en locuras.
-
-Aquí el enfoque debe ser: entender, no “hacerte el hardcoder”.
-
+Writing safe and predictable systems
