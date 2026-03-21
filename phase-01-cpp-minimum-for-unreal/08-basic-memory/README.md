@@ -1,34 +1,33 @@
-08-basic-memory/
+08 — Basic Memory
+08 — Basic Memory
 
-├── README.md
+🎯 Goal
+Understand how memory works in C++ at a fundamental level.
 
-├── src/
+📚 Topics Covered
+Stack vs Heap
+Dynamic allocation
+Memory lifetime
 
-│   └── main.cpp
+🔗 Resources
+https://www.learncpp.com/cpp-tutorial/dynamic-memory-allocation-with-new-and-delete/
 
-└── notes.md
+💻 Practice
 
+Allocate and free memory
 
+Observe memory behavior
 
-Qué debería contener:
+🧠 Key Takeaways
+Memory management affects performance
+Improper handling leads to crashes
+Understanding memory is key for advanced systems
 
+🎮 Relevance to Unreal Engine
+Important for:
 
+Optimization
 
-stack vs heap
+Resource management
 
-
-
-new
-
-
-
-delete
-
-
-
-lifetime general
-
-
-
-Sin profundizar demasiado, como ya dijiste.
-
+Avoiding leaks
