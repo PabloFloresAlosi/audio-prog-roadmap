@@ -1,26 +1,40 @@
-//2) Volume Change Simulation
+// 3) Audio Event Input
 //
 // What you practice:
-// - assignment vs initialization
-// - literals
-// - expressions
-// - operators
+// - cin
+// - cout
+// - variables
+// - input/output
 //
 // Objective:
-// Simulate how volume changes during gameplay.
+// Ask the user for audio event data.
 //
 // Instructions:
-// Initialize volume to 1.0f
-// Print the value
-// Change it to 0.7f
-// Print the value
-// Change it to 0.35f
-// Print the final value
 //
-// Extra:
-// Add comments explaining what initialization is and what reassignment is.
+// Ask the user in the console for:
+// - sound name
+// - volume
+// - duration in seconds
 //
-// Unreal connection:
-// This is the kind of value you would control for music, SFX, distance attenuation, ducking, etc.
-
+// Then print a summary.
+//
+// Example:
+//
+// Enter sound name:
+// Footstep
+// Enter volume:
+// 0.6
+// Enter duration:
+// 2
+//
+// Output:
+//
+// Sound Summary
+// Name: Footstep
+// Volume: 0.6
+// Duration: 2 seconds
+//
+// Note:
+//
+// Use a single-word name for the sound for now.
 
