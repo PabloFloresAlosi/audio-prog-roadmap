@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch01-audio-basics.cpp">
+    <ClCompile Include="practice_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ex01_audio_status.cpp">

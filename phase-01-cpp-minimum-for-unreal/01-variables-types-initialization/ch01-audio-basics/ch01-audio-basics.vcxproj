@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ch01-audio-basics.cpp" />
+    <ClCompile Include="practice_main.cpp" />
     <ClCompile Include="ex01_audio_status.cpp" />
     <ClCompile Include="ex02_volume_change.cpp" />
     <ClCompile Include="ex03_audio_event_input.cpp" />
