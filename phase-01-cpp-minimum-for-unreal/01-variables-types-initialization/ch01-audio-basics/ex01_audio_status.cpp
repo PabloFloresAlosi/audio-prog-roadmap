@@ -1,41 +1,41 @@
-/*// 1) Audio Status Console
-//
-// What you practice:
-// - statements
-// - comments
-// - variables
-// - initialization
-// - cout
-//
-// Objective:
-// Display the basic status of a sound in the console.
-//
-// Instructions:
-// Create variables for:
-// - sound name
-// - volume
-// - whether it is playing
-// - number of active sounds
-//
-// Then print them to the console.
-//
-// Suggested variables:
-// std::string soundName
-// float volume
-// bool isPlaying
-// int activeSounds
-//
-// Expected output:
-//
-// Audio Event: Explosion
-// Volume: 0.8
-// Is Playing: 1
-// Active Sounds: 3
-//
-// Audio connection:
-// This is essentially a mini audio debug panel.
+/*
+1) Audio Status Console
 
-RESULT
+What you practice:
+- statements
+- comments
+- variables
+- initialization
+- cout
+
+Objective:
+Display the basic status of a sound in the console.
+
+Instructions:
+Create variables for:
+- sound name
+- volume
+- whether it is playing
+- number of active sounds
+
+Then print them to the console.
+Suggested variables:
+std::string soundName
+float volume
+bool isPlaying
+int activeSounds
+
+Expected output:
+
+Audio Event: Explosion
+Volume: 0.8
+Is Playing: 1
+Active Sounds: 3
+
+Audio connection:
+This is essentially a mini audio debug panel.
+
+=========== exercise ==========
 
 #include <iostream>
 #include <string>
