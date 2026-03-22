@@ -20,6 +20,11 @@ Release/
 *.user
 *.suo
 
+# 🔥 Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
 # Unreal Engine
 Binaries/
 DerivedDataCache/
