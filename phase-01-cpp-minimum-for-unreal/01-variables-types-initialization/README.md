@@ -16,9 +16,9 @@ Understand how to declare, initialize, and use basic C++ data types, and how the
 
 ## 📁 Project Structure
 
-- `practice_main.cpp` → active working file used to test and experiment
-- `ex01` to `ex10` → completed exercises with clean implementations
-- `notes_variables` → notes and reference code from learning process
+- `ch01-audio-basics` → `practice_main.cpp` → active working file used to test and experiment
+- `ch01-audio-basics` → `ex01` to `ex10` → completed exercises with clean implementations
+-  `variables_project` → `notes_variables` → notes and reference code from learning process
 
 ## 🔗 Resources
 
