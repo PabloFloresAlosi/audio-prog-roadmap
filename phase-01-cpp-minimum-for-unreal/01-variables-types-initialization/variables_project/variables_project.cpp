@@ -70,3 +70,31 @@ int main()
 }
 Enter a number: 4
 You entered 4*/
+
+/* Operators
+
+std::cout << 3 + 4 << '\n'; 7
+std::cout << 3 + 4 - 5 << '\n'; 2
+std::cout << 2 + 3 * 4 << '\n'; 14
+int x { 2 };
+std::cout << (x = 5) << '\n'; 5
+
+*/
+
+#include <iostream>
+
+int main()
+{
+    std::cout << "Enter an integer: ";
+    int x{};
+    std::cin >> x;
+
+    std::cout << "Enter another integer: ";
+    int y{};
+    std::cin >> y;
+
+    std::cout << x << " + " << y << " is " << x + y << ".\n";
+    std::cout << x << " - " << y << " is " << x - y << ".\n";
+
+    return 0;
+}
