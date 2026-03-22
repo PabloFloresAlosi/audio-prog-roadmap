@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variables_project.cpp">
+    <ClCompile Include="notes_variables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
