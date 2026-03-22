@@ -1,19 +1,31 @@
+# 🔥 Build folders
+x64/
+Debug/
+Release/
+
+# 🔥 Compiled files
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+
+# 🔥 Visual Studio cache
+.vs/
+*.VC.db
+*.opendb
+
+# 🔥 Visual Studio user files
+*.user
+*.suo
+
 # Unreal Engine
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 Build/
-
-# IDE
-.vscode/
-.vs/
-
-# Visual Studio
-*.sln
-*.vcxproj*
-*.VC.db
-*.opendb
 
 # Wwise / cache
 **/GeneratedSoundBanks/
