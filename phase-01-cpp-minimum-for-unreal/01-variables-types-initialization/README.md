@@ -14,6 +14,11 @@ Understand how to declare, initialize, and use basic C++ data types, and how the
 * Variable declaration
 * Initialization vs assignment
 
+## 📁 Project Structure
+
+- `practice_main.cpp` → active working file used to test and experiment
+- `ex01` to `ex10` → completed exercises with clean implementations
+- `notes_variables` → notes and reference code from learning process
 
 ## 🔗 Resources
 
