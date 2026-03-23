@@ -35,6 +35,7 @@ Key point
 This is not about doing something complex, but about training a critically important rule:
 always initialize your variables.
 
+=========== exercise ==========
 
 #include <iostream>
 
