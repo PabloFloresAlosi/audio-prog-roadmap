@@ -10,10 +10,12 @@ Void functions
 Parameters and arguments
 Local variables and scope
 Why functions are essential
+
 📁 Project Structure
 practice_main.cpp → active working file used for testing and experimentation
 ex01_* to ex13_* → individual exercises focused on specific concepts
 notes_functions → personal notes and reference snippets from the learning process
+
 🔗 Resources
 https://www.learncpp.com/cpp-tutorial/introduction-to-functions/
 https://www.learncpp.com/cpp-tutorial/function-return-values-value-returning-functions/
@@ -21,6 +23,7 @@ https://www.learncpp.com/cpp-tutorial/void-functions-non-value-returning-functio
 https://www.learncpp.com/cpp-tutorial/introduction-to-function-parameters-and-arguments/
 https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/
 https://www.learncpp.com/cpp-tutorial/why-functions-are-useful-and-how-to-use-them-effectively/
+
 💻 Practice
 
 Functions are used to simulate gameplay and audio-related logic:
@@ -32,11 +35,13 @@ Example concepts explored:
 Passing values into functions
 Returning processed results
 Separating logic into reusable blocks
+
 🧠 Key Takeaways
 Functions enable modular and scalable code
 Input → Process → Output is the core programming model
 Readability is as important as correctness
 Breaking problems into functions is essential for real-world systems
+
 🎮 Relevance to Unreal Engine
 
 Functions directly map to:
