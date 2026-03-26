@@ -40,4 +40,30 @@ int calculateFootstepCount(int characters)
 
 Return characters * 2.
 
-*/
+======================= SOLUTION =======================
+
+#include <iostream>
+#include <string>
+
+int calculateSoundEnergy(int enemies, int explosions)
+	{
+	return (enemies * 10) + (explosions * 25);
+	}
+
+int main()
+	{
+	std::cout << "Enter enemy numbers: " << std::endl;
+	int enemies{};
+	std::cin >> enemies;
+
+	std::cout << "Enter number of explotions: " << std::endl;
+	int explosions{};
+	std::cin >> explosions;
+
+	std::cout << "Sound Energy: " << calculateSoundEnergy(enemies, explosions) << std::endl;
+
+	return 0;
+	
+		}
+
+		*/

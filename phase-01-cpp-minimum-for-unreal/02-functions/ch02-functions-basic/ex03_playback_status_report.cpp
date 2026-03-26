@@ -33,4 +33,32 @@ Split the logic into two functions:
 
 printHeader()
 printSoundInfo()
+
+
+====================== = SOLUTION ======================
+
+
+
+#include <iostream>
+
+void printPlaybackStatus()
+{
+    std::string eventName{ "MagicExplosion" };
+    float volume{ 0.8f };
+    float pitch{ 1.1f };
+    bool isLooping{ false };
+
+    std::cout << "=== PLAYBACK STATUS ===\n";
+    std::cout << "Event: " << eventName << "\n";
+    std::cout << "Volume: " << volume << "\n";
+    std::cout << "Pitch: " << pitch << "\n";
+    std::cout << "Looping: " << isLooping << "\n";
+    std::cout << "=======================\n";
+}
+
+int main()
+{
+    printPlaybackStatus();
+    return 0;
+}
 */

@@ -29,5 +29,45 @@ Audio system ready.
 Extra(optional)
 Add a fourth function :
 
-printLevelAudioInit()
+printAudioReady()
+
+======================= SOLUTION =======================
+
+#include <iostream>
+
+// Simulates the initialization of the audio engine
+void printEngineStart() // void cause we are not expecting any return value
+{
+	std::cout << "Starting audio engine..." << std::endl;
+}
+
+void printLoadBanks()
+{
+	std::cout << "Loading sound banks..." << std::endl;
+}
+
+void printAudioStatus()
+{
+	std::cout << "Audio system ok" << std::endl;
+}
+
+void printAudioReady()
+{
+	std::cout << "Audio is READY." << std::endl;
+}
+
+// Entry point of the program
+// Simulates a basic audio engine startup sequence
+
+int main()
+{
+	printEngineStart();
+	printLoadBanks();
+	printAudioStatus();
+	printAudioReady();
+
+	return 0;
+	
+}
+
 */
