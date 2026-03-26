@@ -14,7 +14,9 @@ Why functions are essential
 
 📁 Project Structure
 practice_main.cpp → active working file used for testing and experimentation
+
 ex01_* to ex13_* → individual exercises focused on specific concepts
+
 notes_functions → personal notes and reference snippets from the learning process
 
 🔗 Resources
