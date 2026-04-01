@@ -150,3 +150,97 @@ int main()
 Best practice
 
 Do not put a return statement at the end of a non-value returning function.
+
+Function parameters and arguments
+
+A function parameter is a variable used in the header of a function. 
+Function parameters work almost identically to variables defined inside the function, 
+but with one difference: they are initialized with a value provided by the caller of the function.
+
+Here are some examples of functions with different numbers of parameters:
+
+// This function takes no parameters
+// It does not rely on the caller for anything
+void doPrint()
+{
+    std::cout << "In doPrint()\n";
+}
+
+// This function takes one integer parameter named x
+// The caller will supply the value of x
+void printValue(int x)
+{
+    std::cout << x << '\n';
+}
+
+// This function has two integer parameters, one named x, and one named y
+// The caller will supply the value of both x and y
+int add(int x, int y)
+{
+    return x + y;
+}
+
+An argument is a value that is passed from the caller to the function when a function call is made:
+
+Ezoic
+doPrint(); // this call has no arguments
+printValue(6); // 6 is the argument passed to function printValue()
+add(2, 3); // 2 and 3 are the arguments passed to function add()
+
+How parameters and arguments work together
+
+When a function is called, all of the parameters of the function are created as variables, 
+and the value of each of the arguments is copied into the matching parameter (using copy initialization). 
+This process is called pass by value. Function parameters that utilize pass by value are called value parameters.
+
+For example:
+
+#include <iostream>
+
+// This function has two integer parameters, one named x, and one named y
+// The values of x and y are passed in by the caller
+void printValues(int x, int y)
+{
+    std::cout << x << '\n';
+    std::cout << y << '\n';
+}
+
+int main()
+{
+    printValues(6, 7); // This function call has two arguments, 6 and 7
+
+    return 0;
+}
+When function printValues is called with arguments 6 and 7, 
+printValues‘s parameter x is created and initialized with the value of 6, 
+and printValues‘s parameter y is created and initialized with the value of 7.
+
+
+#include <iostream>
+
+int getValueFromUser()
+{
+    std::cout << "Enter an integer: ";
+    int input{};
+    std::cin >> input;
+
+    return input;
+}
+
+void printDouble(int value) // This function now has an integer parameter
+{
+    std::cout << value << " doubled is: " << value * 2 << '\n';
+}
+
+int main()
+{
+    int num{ getValueFromUser() };
+
+    printDouble(num);
+
+    return 0;
+}
+
+Best practice
+
+When a function parameter exists but is not used in the body of the function, do not give it a name. You can optionally put a name inside a comment.

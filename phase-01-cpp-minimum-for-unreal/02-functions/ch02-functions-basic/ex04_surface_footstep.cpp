@@ -55,3 +55,28 @@ void playSimpleFootstep(std::string surfaceMaterial, float volume)
 ====================== = SOLUTION ======================
 
 */
+
+#include <iostream>
+#include <string>
+
+void playFootstep(std::string surfaceMaterial, float volume, float pitch, bool isWet, int variationIndex)
+{
+	std::cout << "=== FOOTSTEP EVENT ===" << std::endl;
+	std::cout << "Surface: " << surfaceMaterial << std::endl;
+	std::cout << "Volume: " << volume << std::endl;
+	std::cout << "Pitch: " << pitch << std::endl;
+	std::cout << "Wet: " << isWet << std::endl;
+	std::cout << "Variation: " << variationIndex << std::endl;
+	std::cout << "======================" << std::endl;
+}
+
+int main()
+{
+	playFootstep("Stone", 0.75f, 1.1f, false, 2);
+
+	std::cout << std::endl;
+
+	playFootstep("Grass", 0.6f, 0.95f, true, 1);
+
+	return 0;
+}
